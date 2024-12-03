@@ -1,0 +1,73 @@
+.boosts-container {
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  margin: auto;
+  /* color: white; Тёмный стиль */
+}
+
+.boosts-h1 {
+  /* color: white; Тёмный стиль */
+  color: #FFEFBA;
+  font-size: 60px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.balance {
+  /* color: white; Тёмный стиль */
+  color: #FFEFBA; 
+  font-size: 25px;
+  margin-bottom: 5px;
+}
+
+.boosts-content {
+  border-radius: 10px;
+  margin: 5%;
+  /* background-color: #2D384A; Тёмный стиль */
+  background-color: #FFEFBA;
+  text-align: start;
+  padding: 20px;
+}
+
+.boosts {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.img-boost {
+  display: flex;
+  align-items: center;
+}
+
+.image svg {
+  width: 80px;
+  height: 80px;
+  margin-right: 10px;
+}
+
+.text-content-boost {
+  width: 100%;
+}
+
+.buy-button-boost button {
+  all: unset;
+  width: 100%;
+  height: 40px;
+  background-color: #000218;
+  color: white;
+  border-radius: 10px;
+  text-align: center;
+  transition: transform 0.2s ease;
+  cursor: pointer;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.buy-button-boost button:active {
+  transform: scale(0.95);
+}
+
+hr {
+  background-color: black;
+}

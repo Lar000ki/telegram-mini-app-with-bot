@@ -1,0 +1,10 @@
+.icon-container {
+  position: relative;
+  width: 100vw;
+  height: 80vh;
+  overflow: hidden;
+}
+
+.icon-content {
+  margin-top: 40px;
+}

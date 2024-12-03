@@ -1,0 +1,51 @@
+.frens-container {
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  margin: auto;
+  /* color: white; Тёмный стиль  */
+}
+
+.link {
+  margin: 5px;
+}
+
+.link button {
+  all: unset;
+  width: 100%;
+  height: 40px;
+  /* background-color: #344756; Тёмный стиль */
+  background-color: #FFEFBA;
+  border-radius: 5px;
+  text-align: center;
+  transition: transform 0.2s ease;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.totall-lut {
+  font-size: 25px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #FFEFBA;
+}
+
+.conteiner-frens {
+  border-radius: 10px;
+  margin: 5%;
+  /* background-color: #2D384A; Тёмный стиль */
+  background-color: #FFEFBA;
+  text-align: start;
+  padding: 20px;
+}
+
+.content-frend {
+  display: flex;
+  align-items: center;
+}
+
+.img-frens svg {
+  width: 65px;
+  height: 65px;
+  margin-right: 10px;
+}

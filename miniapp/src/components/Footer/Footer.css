@@ -1,0 +1,39 @@
+.footer-container {
+  position: fixed;
+  width: 100%;
+  bottom: 0px; 
+  /* background-color: #2D384A; Тёмная тема*/
+  background-color: #FFEFBA;
+  /* background-color: #7c7c7c; */
+  box-sizing: border-box;
+  z-index: 1000;
+}
+
+.footer-nav {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  padding: 4px;
+}
+
+.footerIcon {
+  text-decoration: none;
+  flex: 1;
+  display: flex; 
+  flex-direction: column; 
+  align-items: center;
+  text-align: center; 
+  margin: 0 10px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.footerIcon p {
+  font-size: 12px;
+}
+
+.footerIcon svg {
+  width: 30px;
+  height: 30px;
+  margin-bottom: -10px;
+}

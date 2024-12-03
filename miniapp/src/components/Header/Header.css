@@ -1,0 +1,28 @@
+.header-set {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FFEFBA;
+    border-end-end-radius: 10px;
+    border-end-start-radius: 10px;
+    box-shadow: 0 20px 20px rgba(206, 206, 206, 0.1);
+    padding: 6px;
+  }
+  
+  .header-icon svg{
+    max-width: 40px;
+    max-height: 40px;
+    margin-left: 15px;
+  }
+  
+  .header-info{
+    display: flex;
+    align-items: center;
+  }
+  
+  .profile, .settings {
+    padding: 5px;
+    font-size: 25px;
+    cursor: pointer;
+    user-select: none;
+  }

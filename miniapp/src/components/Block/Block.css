@@ -1,0 +1,24 @@
+.block-conteiner {
+    
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+}
+
+.block-h1 {
+    color: #ffe48a;
+    font-size: 60px;
+    margin-top: 10px;
+}
+
+.block-p {
+    color: rgb(255, 228, 138);
+    font-size: 30px;
+}
+
+.qr-code svg{
+    margin-top: 30px;
+    max-width: 80vw;
+    max-height: 80vw;
+}

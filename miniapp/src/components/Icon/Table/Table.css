@@ -1,0 +1,43 @@
+.table-cls-1 {
+  fill: #707070;
+}
+
+.table-cls-1, .table-cls-2, .table-cls-3, .table-cls-4, .table-cls-5, .table-cls-6, .table-cls-7, .table-cls-8, .table-cls-9, .table-cls-10 {
+  stroke-width: 0px;
+}
+
+.table-cls-2 {
+  fill: #3f3f3f;
+}
+
+.table-cls-3 {
+  fill: #d5d5d4;
+}
+
+.table-cls-4 {
+  fill: #d2d9dd;
+}
+
+.table-cls-5 {
+  fill: #888989;
+}
+
+.table-cls-6 {
+  fill: #272a2c;
+}
+
+.table-cls-7 {
+  fill: #b5b4b4;
+}
+
+.table-cls-8 {
+  fill: #494949;
+}
+
+.table-cls-9 {
+  fill: #dedede;
+}
+
+.table-cls-10 {
+  fill: #a6a6a6;
+}
